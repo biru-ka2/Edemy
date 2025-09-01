@@ -159,7 +159,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/biru-ka2) | [Linkedin](https://www.linkedin.com/in/biru-ka2/) 
+- [**Biruk worku**]| [Github](https://github.com/biru-ka2) | [Linkedin](https://www.linkedin.com/in/biru-ka2/) 
 - **Email**: <bworku1221@gmail.com>
 
 ---
